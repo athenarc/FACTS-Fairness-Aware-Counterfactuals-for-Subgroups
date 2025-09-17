@@ -27,7 +27,7 @@ In our work, we call the above representation "Comparative Subgroup Counterfactu
 
 ## Requirements
 
-All experiments were run on the [Anaconda](https://www.anaconda.com/) platform using python version 3.10.4. To avoid bugs due to incompatible package versions, we have exported the [txt file](requirements.txt) for the conda environment on which we worked.
+FACTS uses python version 3.10.4. To avoid bugs due to incompatible package versions, we have exported the [txt file](requirements.txt) for the conda environment on which we worked.
 
 To create a conda environment with the same configuration, run:
 
