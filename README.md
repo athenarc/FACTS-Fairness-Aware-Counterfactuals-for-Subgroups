@@ -9,7 +9,7 @@ In our work, we call the above representation "Comparative Subgroup Counterfactu
 
 ## Structure
     .
-    ├── examples                  # Folder containing example notebooks and relevant files 
+    ├── examples                  # Folder containing example notebook
     │   ├── demo_FACTS.ipynb
     ├── src                     # Source code folder
     │   ├── clean.py             
