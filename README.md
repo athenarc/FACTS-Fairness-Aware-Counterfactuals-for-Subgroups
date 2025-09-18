@@ -45,7 +45,13 @@ Install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+ ## Set Up Jupyter Notebook (Optional for Example Notebooks)
+   
+Additionally, if you wish to run the example notebook you should run the following commands to appropriately setup and start the `jupyter notebook` application:
 
+```bash
+python -m ipykernel install --user --name=facts --display-name "facts env"
+jupyter notebook
 
 
 
