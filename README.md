@@ -32,7 +32,7 @@ FACTS uses python version 3.10.4. To avoid bugs due to incompatible package vers
 To create a conda environment with the same configuration, run:
 
 ```setup
-conda env create --name facts python==3.10.4
+conda create --name facts python=3.10.4
 ```
 
 and then activate it with
